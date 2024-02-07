@@ -1,0 +1,1209 @@
+@media (max-width:1440px) {
+  .header {
+    padding: 1.5rem 8%;
+  }
+
+  .header h1 {
+    font-size: 24px;
+  }
+
+  .header .navbar a {
+    font-size: 20px;
+    
+  }
+
+  .header button {
+    font-size: 20px;
+    padding: 12px 24px;
+  }
+
+  .header button i {
+    font-size: 20px;
+  }
+
+  .home .content h3 {
+    font-size: 6rem;
+  }
+
+  .home .content p {
+    font-size: 2rem;
+  }
+
+  .home .button-purchase button {
+    padding: 7px 14px;
+    font-size: 20px;
+  }
+
+  .home .button-purchase button i {
+    font-size: 20px;
+  }
+
+  .heading {
+    font-size: 30px;
+  }
+
+  .keuntungan {
+    padding: 20px 90px;
+    gap: 23px;
+    margin: 6vh 0;
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke i {
+    font-size: 30px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke h5 {
+    font-size: 22px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan p {
+    font-size: 20px;
+  }
+
+  .ip {
+    gap: 10px;
+    padding: 90px 90px;
+  }
+
+  .ip h1 {
+    font-size: 28px;
+    padding-bottom: 20px;
+  }
+
+
+  .ip .ip-container {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box {
+    gap: 15px;
+
+  }
+
+
+
+  .ip .ip-container .ip-box .benefit {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box {
+    padding: 20px 40px;
+    border-radius: 30px 0 30px 0;
+    gap: 5px;
+
+    max-width: 500px;
+  }
+
+  .product {
+    padding: 8rem 90px;
+  }
+
+  .product .product-container {
+    gap: 20px;
+  }
+
+  .contact-head {
+    padding: 30px 90px;
+  }
+
+  .contact {
+    padding: 30px 90px;
+  }
+
+  .contact-head p {
+    font-size: 20px;
+
+  }
+
+  .contact .box-contact {
+    max-width: 1000px;
+  }
+
+  .contact .box-contact .title-detail-ke i {
+    font-size: 22px;
+
+  }
+
+  .contact .box-contact .title-detail-ke h5 {
+    font-size: 20px;
+
+
+  }
+
+  .contact .box-contact p {
+    font-size: 18px;
+  }
+
+  .footer {
+    padding: 35px 90px 0 90px;
+  }
+
+  .footer .footer-box {
+    gap: 40px;
+  }
+
+  .footer .footer-box .left-footer h1 {
+    font-size: 50px;
+
+  }
+
+  .footer .footer-box .left-footer h2 {
+    font-size: 50px;
+
+  }
+
+  .footer .footer-box .left-footer button {
+    font-size: 18px;
+    padding: 12px 24px;
+  }
+
+  .footer .footer-box .right-footer nav a {
+    font-size: 18px;
+  }
+
+  .footer .footer-bottom h3 {
+    font-size: 20px;
+  }
+
+  .contact-about .box-chat .chat i {
+    font-size: 25px;
+  }
+
+  .contact-about .box-chat .chat a {
+    font-size: 18px;
+  }
+}
+
+@media (max-width:1024px) {
+  .header {
+    padding: 1.2rem 8%;
+  }
+
+  .header h1 {
+    font-size: 24px;
+  }
+
+  .header .navbar a {
+    font-size: 20px;
+    
+  }
+
+  .header button {
+    font-size: 11px;
+    padding: 5px 10px;
+  }
+
+  .header button i {
+    font-size: 20px;
+  }
+
+  .home .content h3 {
+    font-size: 4rem;
+  }
+
+  .home .content p {
+    font-size: 1.5rem;
+  }
+
+  .home .button-purchase button {
+    padding: 7px 14px;
+    font-size: 12px;
+  }
+
+  .home .button-purchase button i {
+    font-size: 20px;
+  }
+
+  .heading {
+    font-size: 23px;
+  }
+
+  .keuntungan {
+    padding: 20px 90px;
+    gap: 23px;
+    margin: 6vh 0;
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke i {
+    font-size: 23px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke h5 {
+    font-size: 18px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan p {
+    font-size: 13px;
+  }
+
+  .ip {
+    gap: 10px;
+    padding: 40px 120px;
+  }
+
+  .ip h1 {
+    font-size: 23px;
+    padding-bottom: 20px;
+  }
+
+
+  .ip .ip-container {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box {
+    gap: 15px;
+
+  }
+
+
+
+  .ip .ip-container .ip-box .benefit {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box {
+    padding: 20px 40px;
+    border-radius: 30px 0 30px 0;
+    gap: 5px;
+    min-width: 200px;
+
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box h3 {
+    font-size: 18px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box p {
+    font-size: 13px;
+  }
+
+
+
+  .product {
+    padding: 8rem 90px;
+  }
+
+  .product .product-box .product-container {
+    gap: 27px;
+  }
+
+  .contact-head {
+    padding: 30px 90px;
+  }
+
+  .contact {
+    padding: 30px 90px;
+  }
+
+  .contact-head p {
+    font-size: 15px;
+
+  }
+
+  .contact .box-contact {
+    max-width: 1000px;
+  }
+
+  .contact .box-contact .title-detail-ke i {
+    font-size: 22px;
+
+  }
+
+  .contact .box-contact .title-detail-ke h5 {
+    font-size: 17px;
+
+
+  }
+
+  .contact .box-contact p {
+    font-size: 13px;
+  }
+
+  .footer {
+    padding: 35px 90px 0 90px;
+  }
+
+  .footer .footer-box {
+    gap: 40px;
+  }
+
+  .footer .footer-box .left-footer h1 {
+    font-size: 34px;
+
+  }
+
+  .footer .footer-box .left-footer h2 {
+    font-size: 34px;
+
+  }
+
+  .footer .footer-box .left-footer button {
+    font-size: 13px;
+    padding: 6px 14px;
+  }
+
+  .footer .footer-box .right-footer nav a {
+    font-size: 17px;
+  }
+
+  .footer .footer-bottom h3 {
+    font-size: 14px;
+  }
+
+  .contact-about .box-chat .chat i {
+    font-size: 25px;
+  }
+
+  .contact-about .box-chat .chat a {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 900px) {
+  .ip .ip-container .ip-box .benefit .benefit-box {
+    padding: 20px 40px;
+    border-radius: 30px 0 30px 0;
+    gap: 5px;
+    min-width: 200px;
+
+  }
+    
+  .product-box .product-container h1 {
+    font-size: 26px;
+  }
+  
+  footer .content .link-boxes {
+    flex-wrap: wrap;
+  }
+
+  footer .content .link-boxes .input-box {
+    width: 40%;
+    margin-top: 10px;
+  }
+}
+
+
+@media (max-width:768px) {
+  .header {
+    padding: 1.2rem 7.5%;
+  }
+
+  .header .account-icon img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .header h1 {
+    font-size: 18px;
+  }
+
+  .header .navbar a {
+    font-size: 16px;
+    
+  }
+
+  .header button {
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+
+  .header button i {
+    font-size: 18px;
+  }
+
+  .home .content h3 {
+    font-size: 3.8rem;
+  }
+
+  .home .content p {
+    font-size: 1.2rem;
+  }
+
+  .home .btn-p button {
+    padding: 8px 16px;
+    font-size: 12px;
+  }
+
+  .home .btn-p button i {
+    font-size: 20px;
+  }
+
+  .heading {
+    font-size: 20px;
+  }
+
+  .keuntungan {
+    padding: 20px 70px;
+    gap: 23px;
+    margin: 5vh 0;
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke i {
+    font-size: 20px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke h5 {
+    font-size: 16px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan p {
+    font-size: 11px;
+  }
+
+  .ip {
+    gap: 10px;
+    padding: 40px 70px;
+  }
+
+  .ip h1 {
+    font-size: 20px;
+    padding-bottom: 20px;
+  }
+
+
+  .ip .ip-container {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box {
+    gap: 15px;
+
+  }
+
+
+
+  .ip .ip-container .ip-box .benefit {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box {
+    padding: 20px 40px;
+    border-radius: 30px 0 30px 0;
+    gap: 5px;
+    min-width: 200px;
+
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box h3 {
+    font-size: 16px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box p {
+    font-size: 11px;
+  }
+
+  .product {
+    padding: 8rem 70px;
+  }
+
+  .product-box .product-container h1 {
+    font-size: 24px;
+  }
+  
+  .product-container img {
+    max-width: 400px;
+    max-height: 400px;
+  }
+
+  .contact-head {
+    padding: 20px 70px;
+  }
+
+  .contact {
+    padding: 20px 70px;
+  }
+
+  .contact-head p {
+    font-size: 13px;
+
+  }
+
+  .contact .box-contact {
+    max-width: 1000px;
+  }
+
+  .contact .box-contact .title-detail-ke i {
+    font-size: 19px;
+
+  }
+
+  .contact .box-contact .title-detail-ke h5 {
+    font-size: 15px;
+
+
+  }
+
+  .contact .box-contact p {
+    font-size: 11px;
+  }
+
+  .footer {
+    padding: 35px 70px 0 70px;
+  }
+
+  .footer .footer-box {
+    gap: 50px;
+  }
+
+  .footer .footer-box .left-footer h1 {
+    font-size: 30px;
+
+  }
+
+  .footer .footer-box .left-footer h2 {
+    font-size: 30px;
+
+  }
+
+  .footer .footer-box .left-footer button {
+    font-size: 11px;
+    padding: 5px 10px;
+  }
+
+  .footer .footer-box .right-footer nav a {
+    font-size: 14px;
+  }
+
+  .footer .footer-bottom h3 {
+    font-size: 12px;
+  }
+
+
+
+  .contact-about .box-chat .chat i {
+    font-size: 18px;
+  }
+
+  .contact-about .box-chat .chat a {
+    font-size: 11px;
+  }
+}
+
+@media (max-width: 700px) {
+  .ip .ip-container .ip-box .benefit .benefit-box {
+  padding: 20px 40px;
+  border-radius: 30px 0 30px 0;
+  gap: 5px;
+  min-width: 200px;
+
+  }
+  
+  footer {
+    position: relative;
+  }
+
+  .content .top .logo-details {
+    font-size: 26px;
+  }
+
+  .content .top .media-icons a {
+    height: 35px;
+    width: 35px;
+    font-size: 14px;
+    line-height: 35px;
+  }
+
+  footer .content .link-boxes .box {
+    width: calc(100% / 3 - 10px);
+  }
+
+  footer .content .link-boxes .input-box {
+    width: 60%;
+  }
+
+  .bottom-details .bottom_text span,
+  .bottom-details .bottom_text a {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 520px) {
+  .header h1 {
+    font-size: 14px;
+  }
+
+  .header .navbar a {
+    font-size: 12px;
+    
+  }
+  
+  .product-container img {
+    max-width: 350px;
+    max-height: 400px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box {
+    padding: 20px 40px;
+    border-radius: 30px 0 30px 0;
+    gap: 5px;
+    min-width: 200px;
+
+  }
+  
+  footer::before {
+    top: 145px;
+  }
+
+  footer .content .top {
+    flex-direction: column;
+  }
+
+  .content .top .media-icons {
+    margin-top: 16px;
+  }
+
+  footer .content .link-boxes .box {
+    width: calc(100% / 2 - 10px);
+  }
+
+  footer .content .link-boxes .input-box {
+    width: 100%;
+  }
+
+  .bottom-details .bottom_text a {
+    font-size: 10px;
+  }
+
+  .bottom-details .bottom_text span {
+    font-size: 10px;
+  }
+}
+
+
+@media (max-width:425px) {
+  .header {
+    padding: 1.2rem 7.5%;
+  }
+
+  .header h1 {
+    font-size: 14px;
+  }
+
+  .header .navbar a {
+    font-size: 12px;
+    
+  }
+
+  .header button {
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+
+  .header button i {
+    font-size: 18px;
+  }
+
+  .home .content {
+    padding: 1rem 2.3rem;
+  }
+
+  .home .content h3 {
+    font-size: 2.8rem;
+  }
+
+  .home .content p {
+    font-size: 1.12rem;
+  }
+
+  .home .btn-p button {
+    padding: 6px 12px;
+    font-size: 12px;
+  }
+
+  .home .btn-p button i {
+    font-size: 20px;
+  }
+
+  .heading {
+    font-size: 18px;
+  }
+
+  .keuntungan {
+    padding: 10px 50px;
+    gap: 23px;
+    margin: 5vh 0;
+  }
+
+  .keuntungan h1 {
+    text-align: center;
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke i {
+    font-size: 20px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke h5 {
+    font-size: 16px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan p {
+    font-size: 11px;
+  }
+
+  .ip {
+    gap: 10px;
+    padding: 10px 50px;
+  }
+
+  .ip h1 {
+    font-size: 18px;
+    padding-bottom: 20px;
+  }
+
+  .product-container p {
+    font-size: 12px;
+  }
+
+  .product-container img {
+    max-width: 250px;
+    max-height: 300px;
+  }
+
+  .ip .ip-container {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box {
+    gap: 15px;
+
+  }
+
+
+
+  .ip .ip-container .ip-box .benefit {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box {
+    padding: 20px;
+    border-radius: 30px 0 30px 0;
+    gap: 5px;
+    min-width: 340px;
+
+
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box2 {
+    border-radius: 0 30px 0 30px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box3 {
+    border-radius: 0px 30px 0px 0px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box4 {
+    border-radius: 0px 30px 0 30px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box h3 {
+    font-size: 16px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box p {
+    font-size: 11px;
+  }
+
+  .product {
+    padding: 8rem 50px;
+  }
+
+  .product h1 {
+    text-align: center;
+  }
+
+  .contact-head {
+    padding: 20px 50px;
+  }
+
+  .contact {
+    padding: 20px 0px;
+  }
+
+  .contact-head p {
+    font-size: 13px;
+
+  }
+
+  .contact .box-contact {
+    max-width: 1000px;
+  }
+
+  .contact .box-contact .title-detail-ke i {
+    font-size: 19px;
+
+  }
+
+  .contact .box-contact .title-detail-ke h5 {
+    font-size: 15px;
+
+
+  }
+
+  .contact .box-contact p {
+    font-size: 11px;
+  }
+
+  .footer {
+    padding: 35px 70px 0 70px;
+  }
+
+  .footer .footer-box {
+    gap: 0px;
+    justify-content: center;
+  }
+
+  .footer .footer-box .left-footer {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .footer .footer-box .left-footer h1 {
+    font-size: 27px;
+    text-align: center;
+
+  }
+
+  .footer .footer-box .left-footer h2 {
+    font-size: 27px;
+    text-align: center;
+
+  }
+
+  .footer .footer-box .left-footer button {
+    font-size: 11px;
+    padding: 5px 10px;
+  }
+
+  .footer .footer-box .right-footer nav {
+    display: none;
+  }
+
+  .footer .footer-box .right-footer nav a {
+    font-size: 14px;
+  }
+
+  .footer .footer-bottom h3 {
+    font-size: 10px;
+  }
+
+  .contact-about .box-chat {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: none;
+
+  }
+
+  .contact-about {
+    display: none;
+  }
+
+
+
+  .contact-about .box-chat .chat i {
+    font-size: 30px;
+  }
+
+  .contact-about .box-chat .chat a {
+    font-size: 9px;
+  }
+
+  .bottom-details  {
+    flex-direction: column;
+    display: none;
+  }
+}
+
+@media (max-width:375px) {
+
+  .header h1 {
+    font-size: 12px;
+  }
+  
+  .header .navbar a {
+    font-size: 10px;
+    
+  }
+
+  .header button i {
+    font-size: 16px;
+  }
+
+  .home .content h3 {
+    font-size: 2.5rem;
+  }
+
+  .home .content p {
+    font-size: 1rem;
+  }
+
+  .home .btn-p button {
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+
+  .home .btn-p button i {
+    font-size: 20px;
+  }
+
+  .ip {
+    gap: 10px;
+    padding: 10px 50px;
+  }
+
+  .ip h1 {
+    font-size: 18px;
+    padding-bottom: 20px;
+  }
+
+  .product-container img {
+    max-width: 210px;
+    max-height: 210px;
+  }
+
+  .ip .ip-container {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box {
+    gap: 15px;
+
+  }
+
+
+
+  .ip .ip-container .ip-box .benefit {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box {
+    padding: 20px;
+    border-radius: 30px 0 30px 0;
+    gap: 5px;
+    min-width: 275px;
+
+
+
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box p {
+    font-size: 11px;
+  }
+
+  .footer .footer-box .left-footer h1 {
+    font-size: 24px;
+    text-align: center;
+
+  }
+
+  .bottom-details  {
+    flex-direction: column;
+    display: none;
+  }
+
+
+  .footer .footer-box .left-footer h2 {
+    font-size: 24px;
+    text-align: center;
+
+  }
+
+  .footer .footer-box .left-footer button {
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+
+  .footer .footer-bottom h3 {
+    font-size: 9px;
+  }
+
+}
+
+@media (max-width:320px) {
+  .header h1 {
+    font-size: 10px;
+  }
+  
+  .header .navbar a {
+    font-size: 10px;
+    
+  }.header button i {
+    font-size: 15px;
+  }
+
+  .home .content h3 {
+    font-size: 2.1rem;
+    padding: 0;
+  }
+
+  .home .content p {
+    font-size: 0.8rem;
+  }
+
+  .home .btn-p button {
+    padding: 4px 8px;
+    font-size: 10px;
+  }
+
+  .home .btn-p button i {
+    font-size: 14px;
+  }
+
+  .keuntungan {
+    padding: 10px 30px;
+    gap: 17px;
+    margin: 5vh 0;
+  }
+
+  .keuntungan h1 {
+    text-align: center;
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke i {
+    font-size: 18px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan .title-detail-ke h5 {
+    font-size: 14px;
+
+
+  }
+
+  .keuntungan .keuntungan-container .box-keuntungan p {
+    font-size: 10px;
+  }
+
+  .ip {
+    gap: 10px;
+    padding: 10px 30px;
+  }
+
+  .ip h1 {
+    font-size: 18px;
+    padding-bottom: 20px;
+  }
+
+  .product {
+    padding: 50px 40px;
+  }
+
+  .product .product-box .product-container {
+    gap: 10px;
+    padding: 15px 25px;
+  }
+
+  .product-container p {
+    font-size: 10px;
+  }
+
+  .product-container img {
+    width: 180px;
+    height: 180px;
+  }
+
+  .ip .ip-container {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box {
+    gap: 15px;
+
+  }
+
+  .product-container img {
+    max-width: 200px;
+    max-height: 200px;
+  }
+
+  .ip .ip-container .ip-box .benefit {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box {
+    padding: 20px;
+    border-radius: 30px 0 30px 0;
+    gap: 5px;
+    min-width: 260px;
+
+
+
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box {
+    gap: 10px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box .judul-box h3 {
+    font-size: 14px;
+  }
+
+  .ip .ip-container .ip-box .benefit .benefit-box p {
+    font-size: 10px;
+  }
+
+
+  .footer .footer-box .left-footer h1 {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .bottom-details .bottom_text span{
+    font-size: 10px;
+  }
+
+  .bottom-details  {
+    flex-direction: column;
+    display: none;
+  }
+
+  .bottom-details .bottom_text a {
+    font-size: 10px;
+  }
+
+
+  .footer .footer-box .left-footer h2 {
+    font-size: 24px;
+    text-align: center;
+
+  }
+
+  .footer .footer-box .left-footer button {
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+
+  .footer .footer-bottom h3 {
+    font-size: 9px;
+  }
+}
